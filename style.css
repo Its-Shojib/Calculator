@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
 .container{
     width: 100%;
     height: calc(100vh - 42px);
